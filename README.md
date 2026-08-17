@@ -25,7 +25,7 @@ My work sits at the intersection of frontend product development and backend eng
 | Project | What it demonstrates / 專案介紹 |
 | --- | --- |
 | [java-tools](https://github.com/iankingh/java-tools) | Java 21 multi-module toolkit for HTTP, Excel, security, Redis, Jakarta, testing, SpotBugs, and JaCoCo。<br>Java 21 多模組工具庫，涵蓋 HTTP、Excel、安全性、Redis、Jakarta 與品質檢查。 |
-| [Angular-demo](https://github.com/iankingh/Angular-demo) | Angular 22 examples with 178 unit tests and Cypress E2E coverage。<br>Angular 22 範例集，包含 178 個單元測試與 Cypress E2E 測試。 |
+| [Angular-demo](https://github.com/iankingh/Angular-demo) | Angular 22 examples with broad unit-test and Cypress E2E coverage。<br>Angular 22 範例集，具備完整的單元測試與 Cypress E2E 覆蓋。 |
 | [easy-eat](https://github.com/iankingh/easy-eat) | Vue 3 + TypeScript ordering system with Pinia, layered services, and mock APIs。<br>使用 Vue 3、TypeScript、Pinia 與分層服務打造的訂餐系統。 |
 | [blog](https://github.com/iankingh/blog) · [Read the notes / 閱讀筆記](https://iankingh.github.io/blog/) | A Hugo + NexT technical blog written in Traditional Chinese。<br>使用 Hugo + NexT 建置的繁體中文技術部落格。 |
 
