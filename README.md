@@ -1,73 +1,123 @@
-# Hi, I'm Ian 👋
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/rpg/character-mobile.svg">
+  <img src="assets/rpg/character.svg" width="100%" alt="Ian 的 RPG 角色面板：全端工匠，裝備 Java、Angular 與 Vue，持續打造、測試與學習。">
+</picture>
 
-我專注於實用的 Web 應用程式、Java 函式庫與開發者工具。
+<p align="center">
+  <a href="#skill-tree--技能樹">技能樹</a> ·
+  <a href="#main-quests--主線副本">主線副本</a> ·
+  <a href="#quest-log--任務紀錄">任務紀錄</a> ·
+  <a href="#world-map--世界地圖">世界地圖</a>
+</p>
 
-I build practical web applications, Java libraries, and developer tools.
+我是 **Ian**，一位把想法鍛造成實用工具的開發者。冒險範圍從 Angular、Vue 的前端介面，到 Java 函式庫與 Spring Boot 整合；沿途的心得，寫進繁體中文技術筆記。
 
-我的工作橫跨前端產品開發與後端工程：從 Angular、Vue 介面，到 Java 21 函式庫、Spring Boot 整合與繁體中文技術筆記。
+*A code adventurer crafting practical web applications, Java libraries, and reusable tools.*
 
-My work sits at the intersection of frontend product development and backend engineering—from Angular and Vue interfaces to Java 21 libraries, Spring Boot integrations, and technical writing in Traditional Chinese.
+## Skill tree / 技能樹
 
-## What I'm working on / 目前正在做的事
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/rpg/skills-mobile.svg">
+  <img src="assets/rpg/skills.svg" width="100%" alt="技能樹：後端鍛造 Java 與 Spring Boot；前端法術 TypeScript、Angular 與 Vue；系統裝備 Docker、Redis 與 Kafka；被動技能測試與技術寫作。">
+</picture>
 
-- 🔧 建立具備安全預設、測試與清楚 API 的可重用 Java 工具
-- 🧪 使用 standalone components、zoneless change detection 與 Vitest 現代化 Angular 範例
-- 🧩 以 Vue 3、TypeScript、Pinia 與 mock API 打造產品流程原型
-- ✍️ 整理繁體中文技術筆記，讓範例容易執行、測試與理解
+**裝備欄**　`Java` · `Spring Boot` · `Gradle` · `TypeScript` · `Angular` · `Vue` · `Docker` · `Redis` · `Kafka` · `Hugo`
 
-- 🔧 Building reusable Java tooling with safe defaults, tests, and clear APIs
-- 🧪 Modernising Angular examples with standalone components, zoneless change detection, and Vitest
-- 🧩 Prototyping product workflows with Vue 3, TypeScript, Pinia, and mock APIs
-- ✍️ Writing Traditional Chinese notes with runnable, testable examples
+## Main quests / 主線副本
 
-## Featured work / 精選作品
+每張卡片都是一個可以探索的專案，點擊即可進入原始碼。
 
-| Project | What it demonstrates / 專案介紹 |
-| --- | --- |
-| [java-tools](https://github.com/iankingh/java-tools) | Java 21 multi-module toolkit for HTTP, Excel, security, Redis, Jakarta, testing, SpotBugs, and JaCoCo。<br>Java 21 多模組工具庫，涵蓋 HTTP、Excel、安全性、Redis、Jakarta 與品質檢查。 |
-| [Angular-demo](https://github.com/iankingh/Angular-demo) | Angular 22 examples covering forms, routing, HTTP, Material, and testing。<br>Angular 22 範例集，涵蓋表單、路由、HTTP、Material 與測試。 |
-| [easy-eat](https://github.com/iankingh/easy-eat) | Vue 3 + TypeScript ordering system with Pinia, layered services, and mock APIs。<br>使用 Vue 3、TypeScript、Pinia 與分層服務打造的訂餐系統。 |
-| [blog](https://github.com/iankingh/blog) · [Read the notes / 閱讀筆記](https://iankingh.github.io/blog/) | A Hugo + NexT technical blog written in Traditional Chinese。<br>使用 Hugo + NexT 建置的繁體中文技術部落格。 |
+<a href="https://github.com/iankingh/java-tools">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/rpg/forge-mobile.svg">
+    <img src="assets/rpg/forge.svg" width="100%" alt="01 工匠鍛造所：java-tools。Java 21 多模組工具庫，涵蓋 HTTP、Excel、安全性、Redis 與 Jakarta；配備測試與品質檢查。">
+  </picture>
+</a>
 
-## Project map / 專案地圖
+<a href="https://github.com/iankingh/Angular-demo">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/rpg/tower-mobile.svg">
+    <img src="assets/rpg/tower.svg" width="100%" alt="02 元件法師塔：Angular-demo。Angular 22 範例集，涵蓋表單、HTTP、路由、Material 與測試，使用 standalone components 與 zoneless。">
+  </picture>
+</a>
 
-### Web applications & frontend / Web 應用與前端
+<a href="https://github.com/iankingh/easy-eat">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/rpg/tavern-mobile.svg">
+    <img src="assets/rpg/tavern.svg" width="100%" alt="03 冒險者食堂：easy-eat。Vue 3 與 TypeScript 訂餐系統，以 Pinia、分層服務與 Mock API 實作訂單及後台管理。">
+  </picture>
+</a>
 
-- [easy-eat](https://github.com/iankingh/easy-eat) — Vue 3 ordering workflow with Pinia, mock APIs, and tests。
-- [Angular-demo](https://github.com/iankingh/Angular-demo) — Modern Angular examples for forms, HTTP, routing, Material, and testing。
-- [JavaScript-Learning](https://github.com/iankingh/JavaScript-Learning) — Browser and Node.js exercises covering ES6, async code, DOM, Fetch, and image handling。
-- [vue-learning](https://github.com/iankingh/vue-learning) — Small, browser-openable Vue 2 learning examples。
-- [ng-advanced-210410](https://github.com/iankingh/ng-advanced-210410) — Archived Angular 11 course and dashboard exercises。
+<a href="https://github.com/iankingh/blog">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/rpg/archive-mobile.svg">
+    <img src="assets/rpg/archive.svg" width="100%" alt="04 旅人藏書庫：blog。Hugo 與 NexT 建置的繁體中文技術部落格，記錄 Web 開發、Java 與工程實作心得。">
+  </picture>
+</a>
 
-### Java, Spring & backend / Java、Spring 與後端
+## Quest log / 任務紀錄
 
-- [java-tools](https://github.com/iankingh/java-tools) — Reusable Java 21 libraries and examples in a Gradle multi-module build。
-- [docker-compose-spring-boot-redis](https://github.com/iankingh/docker-compose-spring-boot-redis) — Spring Boot and Redis integration demo with Docker Compose。
-- [spring-boot-demo](https://github.com/iankingh/spring-boot-demo) — Large, version-pinned Spring Boot example collection。
-- [spring-boot-kafka](https://github.com/iankingh/spring-boot-kafka) — Kafka producer, consumer, partition, and consumer-group examples。
-- [Leetcode-training](https://github.com/iankingh/Leetcode-training) — Java solutions and focused algorithm practice。
-- [StudyDesignPatternInJava](https://github.com/iankingh/StudyDesignPatternInJava) — Minimal Java workspace for learning design patterns。
+- **⚒️ 鍛造可重用元件**　`ONGOING`<br>
+  安全預設、清楚的 API 與邊界測試。
+- **🔮 探索現代前端**　`ONGOING`<br>
+  Angular components、Vue 產品流程與型別設計。
+- **📜 編寫冒險筆記**　`ONGOING`<br>
+  將實作心得整理成可重現的繁體中文文章。
 
-### Writing & publishing / 內容與發布
+> **被動技能：持續學習。** 每一次重構、測試和紀錄，都是下一次冒險的裝備。
 
-- [blog](https://github.com/iankingh/blog) — Hugo source for Traditional Chinese technical notes。
-- [hugo-theme-next-starter](https://github.com/iankingh/hugo-theme-next-starter) — Reusable Hugo NexT starter and configuration。
-- [iankingh.github.io](https://github.com/iankingh/iankingh.github.io) — GitHub Pages entry point for the personal site。
-
-## Tech I use / 使用技術
-
-`Java` · `Spring Boot` · `Gradle` · `TypeScript` · `Angular` · `Vue` · `Python` · `Docker` · `Redis` · `Kafka` · `Hugo`
-
-## Find me elsewhere / 其他連結
-
-- 📖 [Technical notes / 技術筆記](https://iankingh.github.io/blog/)
-- 🧰 [All repositories / 所有 repositories](https://github.com/iankingh?tab=repositories)
+## World map / 世界地圖
 
 <details>
-<summary>A little more context / 更多資訊</summary>
+<summary><strong>🌲 前端森林 — Web &amp; frontend</strong></summary>
 
-我偏好容易執行、容易測試，也容易理解的專案。這個頁面會持續整理我的實驗、學習筆記與可重用元件；穩定的專案會放在精選作品，歷史與學習專案則保留在專案地圖中。
-
-I prefer projects that are easy to run, easy to test, and easy to understand. This page is a living index: stable projects appear as featured work, while historical and learning repositories remain discoverable in the project map.
+| 地點 | 探索內容 |
+| --- | --- |
+| [Angular-demo](https://github.com/iankingh/Angular-demo) | Angular 表單、HTTP、路由、Material 與測試 |
+| [easy-eat](https://github.com/iankingh/easy-eat) | Vue 3 訂餐流程與 Mock API |
+| [JavaScript-Learning](https://github.com/iankingh/JavaScript-Learning) | ES6、非同步、DOM、Fetch 與圖片處理 |
+| [vue-learning](https://github.com/iankingh/vue-learning) | 可直接開啟的 Vue 2 基礎練習 |
+| [ng-advanced-210410](https://github.com/iankingh/ng-advanced-210410) | Angular 11 歷史課程與 dashboard 練習 |
 
 </details>
+
+<details>
+<summary><strong>⛰️ 後端山脈 — Java &amp; integrations</strong></summary>
+
+| 地點 | 探索內容 |
+| --- | --- |
+| [java-tools](https://github.com/iankingh/java-tools) | Java 21 多模組工具庫 |
+| [docker-compose-spring-boot-redis](https://github.com/iankingh/docker-compose-spring-boot-redis) | Spring Boot、Redis 與 Docker Compose 整合 |
+| [spring-boot-demo](https://github.com/iankingh/spring-boot-demo) | 保留版本基線的 Spring Boot 範例集合 |
+| [spring-boot-kafka](https://github.com/iankingh/spring-boot-kafka) | Kafka producer、consumer、partition 與 consumer group |
+
+</details>
+
+<details>
+<summary><strong>⚔️ 訓練場 — Algorithms &amp; practice</strong></summary>
+
+| 地點 | 探索內容 |
+| --- | --- |
+| [Leetcode-training](https://github.com/iankingh/Leetcode-training) | Java 解題與演算法練習 |
+| [StudyDesignPatternInJava](https://github.com/iankingh/StudyDesignPatternInJava) | 設計模式學習的 Java 起始 workspace |
+
+</details>
+
+<details>
+<summary><strong>🏰 知識城鎮 — Writing &amp; publishing</strong></summary>
+
+| 地點 | 探索內容 |
+| --- | --- |
+| [blog](https://github.com/iankingh/blog) | 繁體中文技術筆記的 Hugo 原始碼 |
+| [hugo-theme-next-starter](https://github.com/iankingh/hugo-theme-next-starter) | Hugo NexT starter 與設定 |
+| [iankingh.github.io](https://github.com/iankingh/iankingh.github.io) | 個人網站的 GitHub Pages 入口 |
+
+</details>
+
+---
+
+<p align="center">
+  <strong>✦ 下一站，繼續冒險。 ✦</strong><br>
+  <a href="https://iankingh.github.io/blog/">📖 閱讀技術筆記</a> ·
+  <a href="https://github.com/iankingh?tab=repositories">🗺️ 探索所有專案</a>
+</p>
