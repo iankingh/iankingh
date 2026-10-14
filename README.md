@@ -34,10 +34,10 @@
   </picture>
 </a>
 
-<a href="https://github.com/iankingh/Angular-demo">
+<a href="https://github.com/iankingh/angular-examples">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/rpg/tower-mobile.svg">
-    <img src="assets/rpg/tower.svg" width="100%" alt="02 元件法師塔：Angular-demo。Angular 22 範例集，涵蓋表單、HTTP、路由、Material 與測試，使用 standalone components 與 zoneless。">
+    <img src="assets/rpg/tower.svg" width="100%" alt="02 元件法師塔：angular-examples。Angular 22 範例集，涵蓋表單、HTTP、路由、Material 與測試，使用 standalone components 與 zoneless。">
   </picture>
 </a>
 
@@ -73,10 +73,10 @@
 
 | 地點 | 探索內容 |
 | --- | --- |
-| [Angular-demo](https://github.com/iankingh/Angular-demo) | Angular 表單、HTTP、路由、Material 與測試 |
+| [angular-examples](https://github.com/iankingh/angular-examples) | Angular 表單、HTTP、路由、Material 與測試 |
 | [easy-eat](https://github.com/iankingh/easy-eat) | Vue 3 訂餐流程與 Mock API |
-| [JavaScript-Learning](https://github.com/iankingh/JavaScript-Learning) | ES6、非同步、DOM、Fetch 與圖片處理 |
-| [vue-learning](https://github.com/iankingh/vue-learning) | 可直接開啟的 Vue 2 基礎練習 |
+| [javascript-lab](https://github.com/iankingh/javascript-lab) | ES6、非同步、DOM、Fetch 與圖片處理 |
+| [vue2-exercises](https://github.com/iankingh/vue2-exercises) | 可直接開啟的 Vue 2 基礎練習 |
 | [ng-advanced-210410](https://github.com/iankingh/ng-advanced-210410) | Angular 11 歷史課程與 dashboard 練習 |
 
 </details>
@@ -87,7 +87,7 @@
 | 地點 | 探索內容 |
 | --- | --- |
 | [java-tools](https://github.com/iankingh/java-tools) | Java 21 多模組工具庫 |
-| [docker-compose-spring-boot-redis](https://github.com/iankingh/docker-compose-spring-boot-redis) | Spring Boot、Redis 與 Docker Compose 整合 |
+| [spring-boot-redis-example](https://github.com/iankingh/spring-boot-redis-example) | Spring Boot、Redis 與 Docker Compose 整合 |
 | [spring-boot-demo](https://github.com/iankingh/spring-boot-demo) | 保留版本基線的 Spring Boot 範例集合 |
 | [spring-boot-kafka](https://github.com/iankingh/spring-boot-kafka) | Kafka producer、consumer、partition 與 consumer group |
 
@@ -98,8 +98,8 @@
 
 | 地點 | 探索內容 |
 | --- | --- |
-| [Leetcode-training](https://github.com/iankingh/Leetcode-training) | Java 解題與演算法練習 |
-| [StudyDesignPatternInJava](https://github.com/iankingh/StudyDesignPatternInJava) | 設計模式學習的 Java 起始 workspace |
+| [leetcode-java](https://github.com/iankingh/leetcode-java) | Java 解題與演算法練習 |
+| [java-design-patterns](https://github.com/iankingh/java-design-patterns) | 設計模式學習的 Java 起始 workspace |
 
 </details>
 

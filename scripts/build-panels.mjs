@@ -122,7 +122,7 @@ function icon(type, x, y, size, accent) {
 
 const quests = [
   { file: 'forge', title: '工匠鍛造所', repo: 'java-tools', tag: '01 / THE FORGE', color: c.gold, line1: 'Java 21 多模組工具庫', line2: 'HTTP · Excel · Security · Redis · Jakarta', loot: 'LOOT / REUSABLE TOOLS', badge: 'JAVA 21' },
-  { file: 'tower', title: '元件法師塔', repo: 'Angular-demo', tag: '02 / THE MAGE TOWER', color: c.cyan, line1: '表單、路由、HTTP、Material 與測試', line2: 'Standalone · Zoneless · Vitest', loot: 'LOOT / UI SPELLS', badge: 'ANGULAR' },
+  { file: 'tower', title: '元件法師塔', repo: 'angular-examples', tag: '02 / THE MAGE TOWER', color: c.cyan, line1: '表單、路由、HTTP、Material 與測試', line2: 'Standalone · Zoneless · Vitest', loot: 'LOOT / UI SPELLS', badge: 'ANGULAR' },
   { file: 'tavern', title: '冒險者食堂', repo: 'easy-eat', tag: '03 / THE TAVERN', color: c.green, line1: '訂餐流程、訂單與後台管理', line2: 'Vue 3 · TypeScript · Pinia · Mock API', loot: 'LOOT / PRODUCT FLOWS', badge: 'VUE 3' },
   { file: 'archive', title: '旅人藏書庫', repo: 'blog', tag: '04 / THE ARCHIVE', color: c.purple, line1: '繁體中文技術筆記與實作心得', line2: 'Hugo · NexT · Web · Java', loot: 'LOOT / SHARED KNOWLEDGE', badge: 'HUGO' },
 ];
