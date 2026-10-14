@@ -76,7 +76,7 @@
 | [angular-examples](https://github.com/iankingh/angular-examples) | Angular 表單、HTTP、路由、Material 與測試 |
 | [easy-eat](https://github.com/iankingh/easy-eat) | Vue 3 訂餐流程與 Mock API |
 | [javascript-examples](https://github.com/iankingh/javascript-examples) | ES6、非同步、DOM、Fetch 與圖片處理 |
-| [vue-examples](https://github.com/iankingh/vue-examples) | 可直接開啟的 Vue 2 基礎練習 |
+| [vue-examples](https://github.com/iankingh/vue-examples) | Vue 3 Composition API 範例；[vue2 分支](https://github.com/iankingh/vue-examples/tree/vue2) 保留歷史教材 |
 | [ng-advanced-210410](https://github.com/iankingh/ng-advanced-210410) | Angular 11 歷史課程與 dashboard 練習 |
 
 </details>
